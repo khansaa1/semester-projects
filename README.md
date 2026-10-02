@@ -5,7 +5,7 @@ Here you can find my academic work, designs, and coding projects.
 
 ---
 
-## 🎨 HCI Project (Figma Design)
+##  HCI Project (Figma Design)
 
 This is my HCI (Human-Computer Interaction) project — a complete UI/UX design and prototype created in Figma.
 
@@ -26,12 +26,12 @@ This is my HCI (Human-Computer Interaction) project — a complete UI/UX design 
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - Figma (UI/UX Design)
 - C++ (Programming)
 - HTML/CSS (Web)
 
 ---
 
-## 📬 Contact
+##  Contact
 - **GitHub:** [khansaa1](https://github.com/khansaa1)
